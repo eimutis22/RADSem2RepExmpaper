@@ -69,3 +69,5 @@ C:\Users\Eimutis\Desktop\RADSem1Exampaper\RADSem2RepExmpaper\RADSem2RepExam\obj\
 C:\Users\Eimutis\Desktop\RADSem1Exampaper\RADSem2RepExmpaper\RADSem2RepExam\obj\Debug\RADSem2RepExam.csproj.CoreCompileInputs.cache
 C:\Users\Eimutis\Desktop\RADSem1Exampaper\RADSem2RepExmpaper\RADSem2RepExam\obj\Debug\RADSem2RepExam.dll
 C:\Users\Eimutis\Desktop\RADSem1Exampaper\RADSem2RepExmpaper\RADSem2RepExam\obj\Debug\RADSem2RepExam.pdb
+C:\Users\Eimutis\Desktop\RADSem1Exampaper\RADSem2RepExmpaper\RADSem2RepExam\obj\Debug\RADSem2RepExam.Migrations.ApplicationUsersMigrations.Initial.resources
+C:\Users\Eimutis\Desktop\RADSem1Exampaper\RADSem2RepExmpaper\RADSem2RepExam\obj\Debug\RADSem2RepExam.csproj.GenerateResource.Cache
